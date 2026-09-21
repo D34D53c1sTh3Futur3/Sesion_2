@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sesion_2" Database="" Version="10000">
+  <Project Name="Sesion_2_ejemplo_1" Path="Sesion_2_ejemplo_1/Sesion_2_ejemplo_1.project" Active="No"/>
+  <Project Name="Sesion_2_ejemplo_2" Path="Sesion_2_ejemplo_2/Sesion_2_ejemplo_2.project" Active="No"/>
+  <Project Name="Sesion_2_ejemplo_9" Path="Sesion_2_ejemplo_9/Sesion_2_ejemplo_9.project" Active="No"/>
+  <Project Name="Sesion_2_ejemplo_10" Path="Sesion_2_ejemplo_10/Sesion_2_ejemplo_10.project" Active="No"/>
+  <Project Name="Sesion_2_ejemplo_11" Path="Sesion_2_ejemplo_11/Sesion_2_ejemplo_11.project" Active="No"/>
+  <Project Name="Sesion_2_ejemplo_12" Path="Sesion_2_ejemplo_12/Sesion_2_ejemplo_12.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Sesion_2_ejemplo_1" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_2" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_9" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_10" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_11" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Sesion_2_ejemplo_1" ConfigName="Release"/>
+      <Project Name="Sesion_2_ejemplo_2" ConfigName="Release"/>
+      <Project Name="Sesion_2_ejemplo_9" ConfigName="Release"/>
+      <Project Name="Sesion_2_ejemplo_10" ConfigName="Release"/>
+      <Project Name="Sesion_2_ejemplo_11" ConfigName="Release"/>
+      <Project Name="Sesion_2_ejemplo_12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
