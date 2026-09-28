@@ -5,17 +5,11 @@
   <Project Name="Sesion_2_ejemplo_9" Path="Sesion_2_ejemplo_9/Sesion_2_ejemplo_9.project" Active="No"/>
   <Project Name="Sesion_2_ejemplo_10" Path="Sesion_2_ejemplo_10/Sesion_2_ejemplo_10.project" Active="No"/>
   <Project Name="Sesion_2_ejemplo_11" Path="Sesion_2_ejemplo_11/Sesion_2_ejemplo_11.project" Active="No"/>
-  <Project Name="Sesion_2_ejemplo_12" Path="Sesion_2_ejemplo_12/Sesion_2_ejemplo_12.project" Active="Yes"/>
+  <Project Name="Sesion_2_ejemplo_12" Path="Sesion_2_ejemplo_12/Sesion_2_ejemplo_12.project" Active="No"/>
+  <Project Name="Sesion_3_ejemplo_13" Path="Sesion_3_ejemplo_13/Sesion_3_ejemplo_13.project" Active="No"/>
+  <Project Name="Pilas_1" Path="Pilas_1/Pilas_1.project" Active="Yes"/>
+  <Project Name="colas_1" Path="colas_1/colas_1.project" Active="No"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug">
-      <Environment/>
-      <Project Name="Sesion_2_ejemplo_1" ConfigName="Debug"/>
-      <Project Name="Sesion_2_ejemplo_2" ConfigName="Debug"/>
-      <Project Name="Sesion_2_ejemplo_9" ConfigName="Debug"/>
-      <Project Name="Sesion_2_ejemplo_10" ConfigName="Debug"/>
-      <Project Name="Sesion_2_ejemplo_11" ConfigName="Debug"/>
-      <Project Name="Sesion_2_ejemplo_12" ConfigName="Debug"/>
-    </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Sesion_2_ejemplo_1" ConfigName="Release"/>
@@ -24,6 +18,19 @@
       <Project Name="Sesion_2_ejemplo_10" ConfigName="Release"/>
       <Project Name="Sesion_2_ejemplo_11" ConfigName="Release"/>
       <Project Name="Sesion_2_ejemplo_12" ConfigName="Release"/>
+      <Project Name="Sesion_3_ejemplo_13" ConfigName="Release"/>
+      <Project Name="Pilas_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Sesion_2_ejemplo_1" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_2" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_9" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_10" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_11" ConfigName="Debug"/>
+      <Project Name="Sesion_2_ejemplo_12" ConfigName="Debug"/>
+      <Project Name="Sesion_3_ejemplo_13" ConfigName="Debug"/>
+      <Project Name="colas_1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
